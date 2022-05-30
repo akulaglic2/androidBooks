@@ -1,9 +1,11 @@
-package com.example.booksapp
+package com.example.booksapp.books
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.booksapp.R
 
-class MainActivity : AppCompatActivity() {
+class BooksActivity : AppCompatActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

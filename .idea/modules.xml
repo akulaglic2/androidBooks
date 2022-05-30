@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBooks.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BooksApp.iml" filepath="$PROJECT_DIR$/.idea/modules/BooksApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BooksApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BooksApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BooksApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BooksApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BooksApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BooksApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BooksApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BooksApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
